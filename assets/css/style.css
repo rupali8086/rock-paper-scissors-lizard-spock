@@ -1,0 +1,52 @@
+.container {
+	background-image: url("../images/background.jpg");
+	background-size: cover;
+	color: #eeeeee;
+}
+
+button {
+	padding: 8px;
+	font-size: 1em;
+	color: #333;
+}
+
+#choose button {
+	width: 85px;
+	margin: 15px 4px 20px 4px;
+}
+
+#vs {
+	line-height: 125px;
+}
+
+#battleground {
+	height: 200px;
+	padding-top: 30px;
+	display: inherit;
+}
+
+#hidden {
+	display: none;
+	padding-top: 30px;
+	height: 200px;
+}
+
+#score table {
+	margin: auto;
+	margin-bottom: 15px;
+}
+
+table, th, td {
+	text-align: center;
+	border: 1px solid #eee;
+	padding: 10px;
+}
+
+
+
+
+
+
+
+
+
